@@ -1,0 +1,1 @@
+ALTER TABLE comments  ADD COLUMN dislikes INTEGER DEFAULT 0;
